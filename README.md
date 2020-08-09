@@ -1,5 +1,4 @@
-# Me chamo Daniel Freitas Ferreira 😀
-
+## Me chamo Daniel Freitas Ferreira 👋
 Sou estudante de Análise e Desenvolvimento de Sistemas, pela universidade Unicesumar. 
 Iniciante com desenvolvimento frontend desde 2017. 💻
 

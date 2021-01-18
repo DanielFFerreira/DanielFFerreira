@@ -1,3 +1,6 @@
+<div style="width: 1000px;">
+  <img src="./capa/Design_Daniel.png"/>
+</div>
 ## Me chamo Daniel Freitas Ferreira 👋
 Sou estudante de Análise e Desenvolvimento de Sistemas, pela universidade Unicesumar. 
 Iniciante com desenvolvimento frontend desde 2017. 💻

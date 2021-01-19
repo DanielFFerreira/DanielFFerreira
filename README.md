@@ -1,5 +1,5 @@
 <div style="width: 1000px;">
-  <img src="./capa/Design_Daniel.png"/>
+  <img src="./capa/banner.png"/>
 </div>
 ## Me chamo Daniel Freitas Ferreira 👋
 Sou estudante de Análise e Desenvolvimento de Sistemas, pela universidade Unicesumar. 

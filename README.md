@@ -2,7 +2,7 @@
   <img src="./capa/banner.png"/>
 </div>
 ## Me chamo Daniel Freitas Ferreira 👋
-Sou estudante de Análise e Desenvolvimento de Sistemas, pela universidade Unicesumar. 
+Sou cursando em Análise e Desenvolvimento de Sistemas. 
 Desenvolvedor front-end. 💻
 
 - 🚀 Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios e pronto para enfrentar as mudanças.

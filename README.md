@@ -1,6 +1,8 @@
-## Me chamo Daniel Freitas Ferreira 👋
-Sou cursando em Análise e Desenvolvimento de Sistemas. 
-Desenvolvedor front-end. 💻
+<p align="center">
+    ## Me chamo Daniel Freitas Ferreira 👋
+    Sou cursando em Análise e Desenvolvimento de Sistemas. 
+    Desenvolvedor front-end. 💻
+</p>
 
 <h2 align="center"> Tecnologias que uso no dia a dia</h2>
 

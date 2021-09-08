@@ -1,3 +1,6 @@
+## Me chamo Daniel Freitas Ferreira 👋
+Sou cursando em Análise e Desenvolvimento de Sistemas. 
+Desenvolvedor front-end. 💻
 
 <h2 align="center"> Tecnologias que uso no dia a dia</h2>
 
@@ -17,9 +20,6 @@
     <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
     <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg">
 </p>
-## Me chamo Daniel Freitas Ferreira 👋
-Sou cursando em Análise e Desenvolvimento de Sistemas. 
-Desenvolvedor front-end. 💻
 
 - 🚀 Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios e pronto para enfrentar as mudanças.
 - 🙌🏻 Adoro projetos Open Source e colaboro sempre que possivel.

@@ -1,5 +1,5 @@
+<h1 align="center">Me chamo Daniel Freitas Ferreira 👋</h1>
 <p align="center">
-    ## Me chamo Daniel Freitas Ferreira 👋
     Sou cursando em Análise e Desenvolvimento de Sistemas. 
     Desenvolvedor front-end. 💻
 </p>

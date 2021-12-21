@@ -14,6 +14,7 @@
     <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg">
     <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
+    <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
     <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg">
     <img width="45px" src="https://cdn.iconscout.com/icon/free/png-256/gulp-226000.png">
     <img width="45px" src="https://parceljs.org/parcel.fb905a63.png">

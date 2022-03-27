@@ -18,7 +18,7 @@
 
 <p align="center">
     <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-    <img width="45px" src="https://styled-components.com/icon.png">
+    <img width="45px" src="https://miro.medium.com/max/318/1*7jRD5QhgARucFKvRHFxpOg.png">
     <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
     <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg">
     <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">

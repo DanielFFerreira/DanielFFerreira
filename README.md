@@ -1,6 +1,6 @@
 <h1 align="center">Me chamo Daniel Freitas Ferreira 👋</h1>
 <p align="center">
-    Cursando em Análise e Desenvolvimento de Sistemas. 
+    Cursando Análise e Desenvolvimento de Sistemas. 
     Desenvolvedor front-end. 💻
 </p>
 

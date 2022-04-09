@@ -4,7 +4,7 @@
     Desenvolvedor front-end. 💻
 </p>
 
-<h2 align="center"> Tecnologias que uso no dia a dia</h2>
+<h2 align="center"> Tecnologias que uso</h2>
 
 <p align="center">
     <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/git/git-original.svg">

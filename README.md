@@ -14,7 +14,7 @@
     <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
 </p>
 
-<h2 align="center"> Tecnologias que estou estudando</h2>
+<h2 align="center"> Tecnologias que estou estudando.</h2>
 
 <p align="center">
     <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">

@@ -18,15 +18,15 @@
 ## 👨🏼‍💻 <strong>Tech Stack ↴</strong>
 
 <p align="left">
-  <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat"></a>&nbsp;
-  <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat"></a>&nbsp;
-  <a href="#"><img alt="sass" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>&nbsp;
-  <a href="#"><img alt="Gulp" src="https://img.shields.io/badge/gulp-CF4647?logo=gulp&logoColor=fff&style=flat"></a>&nbsp;
-  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>&nbsp;
-  <a href="#"><img alt="git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>&nbsp;
+  <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>&nbsp;
+  <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>&nbsp;
+  <a href="#"><img alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></a>&nbsp;
+  <a href="#"><img alt="Gulp" src="https://img.shields.io/badge/Gulp-E23237?style=for-the-badge&logo=gulp&logoColor=white"></a>&nbsp;
+  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>&nbsp;
+  <a href="#"><img alt="git" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"></a>&nbsp;
 </p>
                                                                                                        
 ### ➜ Já vi, estou estudando
-<a href="#"><img alt="node" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>&nbsp;
+<a href="#"><img alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>&nbsp;
                                                                                                        
                                                                                                   

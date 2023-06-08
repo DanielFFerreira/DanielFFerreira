@@ -27,6 +27,6 @@
 </p>
                                                                                                        
 ### ➜ Já vi, estou estudando
-<a href="#" style="border-radius: 20px;"><img alt="node" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>&nbsp;
+<a href="#"><img alt="node" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>&nbsp;
                                                                                                        
                                                                                                   

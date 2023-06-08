@@ -14,7 +14,7 @@
 ## 🔥 <strong>Ferramentas ↴</strong>
 <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat"></a>&nbsp;
 
-                                                                                                                ---
+                                                                                                    
 ## 👨🏼‍💻 <strong>Tech Stack ↴</strong>
 
 <p align="left">

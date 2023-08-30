@@ -7,7 +7,7 @@
 <p width="30px" height="30px"">Olá, Meu nome é Daniel Ferreira 👋</p>
 
 <!-- Apresentação -->
-<p>Trabalhei por 7 anos como repositor em supermercado, durante esse tempo aprendi muita coisa sobre o ramo de varejo (técnicas de abastecimento, controlar validade, estoque, atendimento ao cliente entre outros....), posso afirmar que foi uma escola pra minha evolução. Atualmente trabalho como desenvolvedor php júnior, na centro universitário Unifafibe, onde a cada dia colocando em prática o que estou estudando na programação sempre no objetivo de evoluir cada dia.</p>
+<p>Trabalhei por 7 anos como repositor em supermercado, durante esse tempo aprendi muita coisa sobre o ramo de varejo (técnicas de abastecimento, controlar validade, estoque, atendimento ao cliente entre outros....), posso afirmar que foi uma escola pra minha evolução. Atualmente trabalho como desenvolvedor php júnior, na centro universitário Unifafibe, onde estou colocando em prática todo aprendizado</p>
                               
  ---
 

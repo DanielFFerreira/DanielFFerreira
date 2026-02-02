@@ -3,7 +3,7 @@
 <!-- Apresentação -->
 <p>Graduado em Análise e Desenvolvimento de Sistemas (Universidade Unicesumar - Maringá), e graduando em Segurança da informação (Universidade de Marilía Unimar).
 Tenho pós-graduação em Desenvolvimento Web (Faculdade Imes), pós-graduação em Desenvolvimento Front-end (Universidade Anhaguera) e pós-graduação em marketing digital (Faculdade Metropolitana - Ribeirão Preto).
-Profissional com mais de 6 anos de experiência em desenvolvimento de software, atuando como Full Stack Developer no centro universitário Unifafibe e como Front-end Freelancer na WA Esquadrilhas Ji-Paraná Rondonia.</p>
+Profissional com mais de 6 anos de experiência em desenvolvimento de software, atuando atualmente como Full Stack Developer no centro universitário Unifafibe e trabalhei como Front-end Freelancer na WA Esquadrilhas Ji-Paraná Rondonia.</p>
                               
  ---
 

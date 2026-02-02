@@ -7,7 +7,7 @@ Profissional com mais de 6 anos de experiência em desenvolvimento de software, 
                               
  ---
 
-## 🔥 <strong>Design ↴</strong>
+## <strong>Design ↴</strong>
 <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat"></a>&nbsp;
 
                                                                                                     

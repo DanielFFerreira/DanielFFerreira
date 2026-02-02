@@ -1,10 +1,3 @@
-<p>
-    <!-- Badge - Linkedin -->
-    <a href="https://www.linkedin.com/in/daniel-freitas-ferreira/">
-        <img src="https://img.shields.io/badge/Daniel-0A66C2?logo=linkedin&logoColor=fff&style=flat&link=https://www.linkedin.com/in/daniel-freitas-ferreira/">
-        <p>Linkedin</p>
-    </a>
-</p>
 <p width="30px" height="30px"">Olá, Meu nome é Daniel Ferreira 👋</p>
 
 <!-- Apresentação -->
